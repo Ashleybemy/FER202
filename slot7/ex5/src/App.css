@@ -1,0 +1,20 @@
+/* Thương hiệu */
+.bg-brand-orange { background-color: #e19436; }
+.bg-brand-orange-weak { background-color: #e3b46d; }
+
+/* Link trên nền cam */
+.bg-brand-orange a { color: #fff; }
+.bg-brand-orange a:hover { text-decoration: underline; }
+
+/* Bóng đổ nhẹ */
+.shadow-soft { box-shadow: 0 10px 30px rgba(0,0,0,.08); }
+
+/* Hero */
+.hero-img { display:block; max-height: 420px; object-fit: cover; }
+.hero-overlay {
+  position:absolute; inset:0;
+  background: linear-gradient(180deg, rgba(0,0,0,.15), rgba(0,0,0,.05) 40%, rgba(0,0,0,0));
+}
+
+/* Ảnh card */
+.object-fit-cover { object-fit: cover; }
