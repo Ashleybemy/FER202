@@ -1,0 +1,64 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Comedy"
+    },
+    {
+      "id": 4,
+      "name": "Sci-Fi"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "duration": 113,
+      "genreId": 4
+    },
+    {
+      "id": 2,
+      "title": "The Martian",
+      "year": 2015,
+      "duration": 144,
+      "genreId": 4
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "year": 2014,
+      "duration": 169,
+      "genreId": 4
+    },
+    {
+      "id": 4,
+      "title": "Parasite",
+      "year": 2019,
+      "duration": 132,
+      "genreId": 2
+    },
+    {
+      "id": 5,
+      "title": "Rush Hour",
+      "year": 1998,
+      "duration": 98,
+      "genreId": 3
+    },
+    {
+      "id": 6,
+      "title": "John Wick",
+      "year": 2014,
+      "duration": 101,
+      "genreId": 1
+    }
+  ]
+}
