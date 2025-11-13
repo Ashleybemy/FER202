@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "isAdmin": false },
+    { "id": 2, "name": "Bob", "isAdmin": true }
+  ],
+  "payments": []
+}
